@@ -1,18 +1,29 @@
-- Tactical
+- Tactical (CFO), Random
   - Backpay for March 31-Jun 21  
-- Informational
+- Informational (CTO), Weekly
   - Company dashboard 
-- Strategic
+- Strategic (CEO), Quarterly
    - API for notifications
       - Deadlines
       - Compliance  
-- Operational
+- Operational (COO), Daily
   - Automate pay with BoA
   - Payroll deadlines
      - State
      - Feds 
-- Existential
+- Existential (CHRO), Yearly
    - Peer-reviewed work
    - Contracts
    - Revenues
    - Profits 
+
+
+From a DAG perspective:
+
+```
+
+       1. Random
+                \
+ 2. Weekly  ->  4. Operational -> 5. Existential
+                /
+                 3. Strategic
