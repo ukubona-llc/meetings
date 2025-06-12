@@ -1,6 +1,6 @@
 - Tactical (CFO), Random
   - Backpay for March 31-Jun 21  
-- Informational (CTO), Weekly
+- Informational (CTO), [Weekly](https://docs.zoom.us/doc/13BVLe0lT4qtd3Vbulojrw?from=web_summary)
   - Company dashboard 
 - Strategic (CEO), Quarterly
    - API for notifications
