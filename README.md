@@ -1,1 +1,18 @@
-Meetings
+- Tactical
+  - Backpay for March 31-Jun 21  
+- Informational
+  - Company dashboard 
+- Strategic
+   - API for notifications
+      - Deadlines
+      - Compliance  
+- Operational
+  - Automate pay with BoA
+  - Payroll deadlines
+     - State
+     - Feds 
+- Existential
+   - Peer-reviewed work
+   - Contracts
+   - Revenues
+   - Profits 
